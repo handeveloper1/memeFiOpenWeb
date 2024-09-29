@@ -1,0 +1,2 @@
+# memeFiOpenWeb
+memefi open Webbrowser
